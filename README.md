@@ -27,6 +27,6 @@ Python 3.6 should be installed and set as virtual/ main environment.
 
 Prerequisite :
 
-python basic syntax Oops concept for better understanding. After successful implementation , program should be able to interact with the user in chosen language , program would be able to send whatsapp messages by voice ,you need to login whatsappWeb once and can send message as many times as you want and scope for modifiication to send message more efficiently.
+python basic syntax Oops concept for better understanding. After successful implementation , program should be able to interact with the user in chosen language , program would be able to send whatsapp messages by voice ,you need to login whatsappWeb once(able to hold the previous logged session) and can send message as many times as you want and scope for modifiication to send message more efficiently.
 
 
